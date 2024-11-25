@@ -1,5 +1,5 @@
 const notesContainer = document.querySelector(".notes-container");
-const createBtn = document.querySelector(".btn");
+const createBtn = document.querySelector("#btn");
 let notes = document.querySelector(".input-box");
 
 createBtn.addEventListener("click", ()=>{
